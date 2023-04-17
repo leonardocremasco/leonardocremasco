@@ -1,7 +1,7 @@
-### Eae! Eu sou Leonardo Cremasco 👋
+### Hello there! I am Leonardo Cremasco 👋
 
-- 💻 Constantemente estudando tecnologia
-- 👨‍🎓 Cursando Engenharia de Computação na EEP - FUMEP
+- 💻 Always seeking tech knowledge
+- 👨‍🎓 1st year undergratuated Computer Engineering at EEP/FUMEP
 - 📥 Email: lcremasco@outlook.com
 
 
