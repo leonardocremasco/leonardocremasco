@@ -19,12 +19,15 @@
     <a href = "mailto:guifabretti@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardocremasco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
-
-      <h3>Languages & Tools I Know...</h3>
+ 
+  <h3>Languages & Tools I Know...</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,javascript,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,arduino,git,github,vscode" />
   </a>
 </p>
+
+##
+   
+ ![Snake animation](https://github.com/leonardocremasco/leonardocremasco/blob/output/github-contribution-grid-snake.svg)
