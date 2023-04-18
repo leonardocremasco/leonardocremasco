@@ -30,4 +30,4 @@
 
 ##
    
- ![Snake animation](https://github.com/leonardocremasco/leonardocremasco/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/leonardocremasco/leonardocremasco/blob/main/github-contribution-grid-snake.svg)
