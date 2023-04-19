@@ -4,7 +4,7 @@
 
 - 👨‍🎓 1st year undergratuated **Computer Engineering at EEP/FUMEP**
 
-- 🌱 I’m currently learning **TypeScript, React.js and Node.js**
+- 🌱 I’m currently learning **React.js and Node.js**
 
 <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardocremasco&layout=compact&langs_count=7&theme=radical" />
 
