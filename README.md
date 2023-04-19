@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **TypeScript, React.js and Node.js**
 
+<img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardocremasco&layout=compact&langs_count=7&theme=radical" />
+
 - 💬 Ask me about **HTML5, CSS3, JavaScript, C/ C++**
 
 - 📫 How to reach me **lcremasco@outlook.com**
