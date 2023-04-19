@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo Cremasco</h1>
 <h3 align="center">A passionate full-stack developer (in progress) from Brazil</h3>
 
+- 👨‍🎓 1st year undergratuated **Computer Engineering at EEP/FUMEP**
+
 - 🌱 I’m currently learning **TypeScript, React.js and Node.js**
 
 <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardocremasco&layout=compact&langs_count=7&theme=radical" />
@@ -12,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@leocremasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@leocremasco" height="30" width="40" /></a>
+<a href="https://twitter.com/leocremasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@leocremasco" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonardocremasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardocremasco" height="30" width="40" /></a>
-<a href="https://instagram.com/@leocremasco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leocremasco_" height="30" width="40" /></a>
+<a href="https://instagram.com/leocremasco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leocremasco_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
