@@ -4,11 +4,11 @@
 
 - 👨‍🎓 1st year undergratuated **Computer Engineering at EEP/FUMEP**
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **JavaScript and Node.js**
 
 <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardocremasco&layout=compact&langs_count=7&theme=radical" />
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, C/ C++**
+- 💬 Ask me about **HTML5, CSS3, C/ C++**
 
 - 📫 How to reach me **lcremasco@outlook.com**
 
