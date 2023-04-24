@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/leocremasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@leocremasco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonardocremasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardocremasco" height="30" width="40" /></a>
-<a href="https://instagram.com/leocremasco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leocremasco_" height="30" width="40" /></a>
+<a href="https://twitter.com/leocremasco" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@leocremasco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonardocremasco" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardocremasco" height="30" width="40" /></a>
+<a href="https://instagram.com/leocremasco_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leocremasco_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
