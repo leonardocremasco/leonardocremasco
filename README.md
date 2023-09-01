@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Leonardo Cremasco</h1>
-<h3 align="center">A passionate full-stack developer (in progress) from Brazil</h3>
+<h3 align="center">A passionate software developer and data analist (in progress) from Brazil</h3>
 
 - 👨‍🎓 1st year undergratuated **Computer Engineering at EEP/FUMEP**
 
