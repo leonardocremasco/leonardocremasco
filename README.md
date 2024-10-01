@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Cremasco</h1>
 <h3 align="center">A passionate data Engineer (in progress) from Brazil</h3>
 
-- 👨‍🎓 1st year undergratuated **Computer Engineering at EEP/FUMEP**
+- 👨‍🎓 2st year undergratuated **Computer Engineering at EEP/FUMEP**
 
 - 🌱 I’m currently learning **MongoDB,Cassandra & R script**
 
